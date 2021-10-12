@@ -1,7 +1,7 @@
 # *#Sobre Mim*
  Acho que esse readme é para colocar um about-me, então lá vamos nós:
 
-Tenho 19 anos e curso [ciência da computação](https://portal.cin.ufpe.br/) na [UFPE](https://www.ufpe.br/), atualmente no segundo semestre (por conta da pandemia * - *)
+Tenho 19 anos e curso [ciência da computação](https://portal.cin.ufpe.br/) na [UFPE](https://www.ufpe.br/), atualmente no terceiro semestre (por conta da pandemia * - *)
 
 Por enquanto é só isso mesmo. :P
 
